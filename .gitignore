@@ -1,0 +1,8 @@
+.idea
+node_modules
+
+# Log files
+*.log
+
+#local config
+local_config.json
